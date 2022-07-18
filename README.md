@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Prince Kumar, Currently enrolled in full time college
+B.tech ,CSE, Final Year Student
+
+##Projects
+1. Android
+..1. Xtronic
+..2. Credential Locker
+
