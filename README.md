@@ -20,6 +20,6 @@ B.tech ,CSE, Final Year Student
 
 ##Projects
 1. Android
-⋅⋅1. Xtronic
+  1. Xtronic
 ⋅⋅2. Credential Locker
 
